@@ -831,17 +831,3 @@ If you found this project valuable, please consider:
 ---
 
 <div align="center">
-
-## 🚀 **Built with ❤️ for the Data Science Community**
-
-*Transforming data into actionable intelligence, one insight at a time.*
-
----
-
-**© 2024 Dhrumil Patel | AI Job Market Analytics Dashboard**
-
-**Making data-driven career decisions accessible to everyone**
-
-[⬆ Back to Top](#-ai-job-market-trends-comprehensive-analytics-dashboard)
-
-</div>
